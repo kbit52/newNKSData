@@ -1,0 +1,4 @@
+newNKSData
+==========
+
+DBMS Small Management 
